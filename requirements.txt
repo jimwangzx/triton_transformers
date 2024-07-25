@@ -11,4 +11,4 @@ onnxruntime-gpu==1.9.0
 sympy
 coloredlogs
 -f https://download.pytorch.org/whl/cu113/torch_stable.html
-torch==1.10.0+cu113
+torch==2.2.0
